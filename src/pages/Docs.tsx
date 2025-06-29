@@ -1,0 +1,1 @@
+export default function Docs() { return <div className="p-10 text-xl">📄 Documentación técnica del bot.</div> }

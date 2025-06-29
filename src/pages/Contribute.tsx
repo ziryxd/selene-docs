@@ -1,0 +1,1 @@
+export default function Contribute() { return <div className="p-10 text-xl">🤝 Guía para contribuir y correr el bot localmente.</div> }

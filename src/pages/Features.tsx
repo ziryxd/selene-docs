@@ -1,0 +1,1 @@
+export default function Features() { return <div className="p-10 text-xl">🔧 Características detalladas próximamente.</div> }
